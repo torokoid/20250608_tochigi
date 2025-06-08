@@ -180,7 +180,7 @@ p.note { display: none; }
 <h2><span class="yellow">梅雨入り前の晴れ間に道の駅までツーリング</span></h2>
 <a href="20250608_018.JPG" target="_blank"><img src="20250608_018.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">道の駅までの到着動画が撮れてます<br>画像クリックで走行動画を再生します↓</span></h2>
+<h2><span class="yellow">道の駅までの到着動画が撮れてます、正面左がいつもの羽黒山<br>画像クリックで走行動画を再生します↓</span></h2>
 <a href="https://youtu.be/ahNJxqQfZzA" target="_blank"><img src="20250608_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">動画の走行ルートはこちら<br>画像クリックでGoogleMapsが開きます↓</span></h2>
