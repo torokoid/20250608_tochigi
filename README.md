@@ -217,7 +217,7 @@ p.note { display: none; }
 <h2><span class="yellow">8日のお昼はいつもの大戸屋</span></h2>
 <a href="20250608_039.JPG" target="_blank"><img src="20250608_039.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">FKDのお花屋さんでひまわり</span></h2>
+<h2><span class="yellow">FKDのお花屋さんにはひまわり</span></h2>
 <a href="20250608_040.JPG" target="_blank"><img src="20250608_040.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">早すぎると思ったら、造花でした</span></h2>
