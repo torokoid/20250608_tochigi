@@ -172,7 +172,7 @@ p.note { display: none; }
 <a href="20250608_013.JPG" target="_blank"><img src="20250608_013.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250608_014.JPG" target="_blank"><img src="20250608_014.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">可憐に咲くのはミクロフィラ</span></h2>
+<h2><span class="yellow">可憐に咲くのは赤白チェリーセージ</span></h2>
 <a href="20250608_015.JPG" target="_blank"><img src="20250608_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250608_016.JPG" target="_blank"><img src="20250608_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250608_017.JPG" target="_blank"><img src="20250608_017.JPG" alt="サンプル画像" width="900" /></a>
